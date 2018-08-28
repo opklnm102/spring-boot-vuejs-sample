@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <!--<img src="./assets/logo.png">-->
+    <!-- static 폴더의 sodyddms build에 포함된다 -->
     <img src="/static/images/logo2.png">
 
     <router-view/>

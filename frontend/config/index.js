@@ -53,8 +53,9 @@ module.exports = {
   },
 
   build: {
-    // Template for home.html
-    // home: path.resolve(__dirname, '../dist/index.html'),
+    // 2. webpack build config
+    // Template for index.html
+    // index: path.resolve(__dirname, '../dist/index.html'),
     index: path.resolve(__dirname, '../../spring-boot-backend/src/main/resources/templates/index.html'),
 
     // Paths

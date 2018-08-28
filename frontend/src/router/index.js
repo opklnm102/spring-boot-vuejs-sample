@@ -5,6 +5,7 @@ import DetailUser from '@/components/DetailUser'
 
 Vue.use(Router)
 
+// component별 router, history 설정 - react랑 비슷한듯..?
 export default new Router({
   mode: 'history',
   routes: [
