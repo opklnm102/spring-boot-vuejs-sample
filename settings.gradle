@@ -1,0 +1,4 @@
+rootProject.name = 'vue-spring-boot-sample'
+
+include 'spring-boot-backend'
+include 'frontend'
