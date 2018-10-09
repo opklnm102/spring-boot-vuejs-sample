@@ -1,5 +1,8 @@
 # spring-boot-vuejs-sample
 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+<br>
 
 ## Vue.js project 생성
 ```sh
@@ -59,4 +62,5 @@ $ npm run build
 
 > #### Refrence
 > * [vue.js template webpack](https://vuejs-templates.github.io/webpack/) 
-
+> * [standard](https://github.com/standard/standard/blob/master/docs/README-kokr.md)
+> * [WebStorm 2017.1 EAP, 171.2272: Standard code style, completion in package.json](https://blog.jetbrains.com/webstorm/2017/01/webstorm-2017-1-eap-171-2272/)
