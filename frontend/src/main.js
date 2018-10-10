@@ -4,6 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import axios from 'axios' // npm install axios
+import 'bootstrap/dist/css/bootstrap.min.css' // http://vuejs.kr/jekyll/update/2017/03/02/vuejs-jquery-bootstrap/
 
 Vue.config.productionTip = false
 Vue.prototype.$http = axios
